@@ -1,7 +1,0 @@
-baseurl: ''
-
-prose:
-  rooturl: ''
-  media: 'media'
-  ignore:
-    - _config.yml
