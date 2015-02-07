@@ -1,3 +1,5 @@
+baseurl: 
+
 prose:
   rooturl: ''
   media: 'media'
