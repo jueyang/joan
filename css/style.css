@@ -108,7 +108,7 @@ input[type='submit']:hover{
 
 @media screen and (max-width: 768px) {
   body {
-    background: url(../poster/video-silent-landscape-poster.jpg) no-repeat 45% 0 fixed;
+    background: url(../media/video-silent-landscape-poster.jpg) no-repeat 45% 0 fixed;
     background-size:cover;
   }
   .desktop,
