@@ -18,7 +18,7 @@ video {
   width: auto;
   height: auto;
   z-index: -100;
-  background: url(../videos/video-silent-landscape-poster.jpg) no-repeat;
+  background: url(../media/video-silent-landscape-poster.jpg) no-repeat;
   background-size: cover;
 }
 h1,h2,h3,p,a,input,small {
@@ -108,7 +108,7 @@ input[type='submit']:hover{
 
 @media screen and (max-width: 768px) {
   body {
-    background: url(../videos/video-silent-landscape-poster.jpg) no-repeat 45% 0 fixed;
+    background: url(../poster/video-silent-landscape-poster.jpg) no-repeat 45% 0 fixed;
     background-size:cover;
   }
   .desktop,
