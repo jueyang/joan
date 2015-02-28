@@ -74,6 +74,9 @@ input[type='submit']:hover{
   margin:0;
   padding:2em;
 }
+.delay {
+  display:none;
+}
 .right {
   position:absolute;
   top:0;
@@ -129,6 +132,9 @@ input[type='submit']:hover{
   }
   .highlight {
     font-size:2em;
+  }
+  .delay {
+    display:block;
   }
   .block {
     padding:1em;

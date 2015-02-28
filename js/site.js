@@ -8,7 +8,7 @@ joan.windowThreshold = 768;
 
 joan.delayShow = function(el,timeout){
 	setTimeout(function(){
-		el.show();
+		el.css('display','block');
 	},timeout*1000)
 };
 
@@ -25,7 +25,6 @@ joan.init = function(){
 	  delays.each(function(i,el){
 
 	    wait = $(el).data().wait;
-	    $(el).hide();
 	    joan.delayShow($(el),wait);
 
 	  });
