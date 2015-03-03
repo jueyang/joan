@@ -12,9 +12,9 @@ joan.delayShow = function(el,timeout){
 	},timeout*1000)
 };
 
-joan.noload = function(videoEl){
+joan.noLoad = function(videoEl){
 	videoEl.attr('src','');
-}
+};
 
 joan.init = function(){
 	if (joan.windowWidth > joan.windowThreshold){
@@ -31,7 +31,7 @@ joan.init = function(){
 
 	} else {
 	  var video = $('#video');
-	  joan.noload(video);
+	  joan.noLoad(video);
 	}
 };
 
