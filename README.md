@@ -1,13 +1,3 @@
-### Joan' surface traits:
+[Joan Album release. June 1st. Prospect Park.](http://joanfirst.com)
 
-- pure/unpretentious
-- fun/funny
-- playful/theatrical
-- laid-back/not rushed
-- cool/sexy
-
-### Joan's deeper traits:
-
-appreciation of life -- of taking part in something bigger than oneself -- seeing it in the mundane, childish, strange.
-
-(the feel is the family -- feeling yourself as part of something bigger when you commit to something fully, even excessively--almost a religious experience). 
+![](http://cl.ly/image/1t3R0v311I3c/Screen%20Shot%202015-03-13%20at%201.48.59%20PM.png)
